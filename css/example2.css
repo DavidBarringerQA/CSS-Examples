@@ -1,4 +1,5 @@
 @import './example.css';
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&display=swap');
 
 p {
     color: red;
@@ -10,4 +11,6 @@ ul {
 
 li {
     color: darkgreen;
+    font-family: 'Fuggles', cursive;
+    font-size: 2em;
 }
