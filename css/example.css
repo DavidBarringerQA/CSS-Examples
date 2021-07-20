@@ -1,0 +1,11 @@
+p {
+    color: grey;
+    background-color: whitesmoke;
+}
+
+h1 {
+    border: 2px solid black;
+    height: 3em;
+    margin: auto;
+    text-align: center;
+}

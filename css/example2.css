@@ -1,0 +1,13 @@
+@import './example.css';
+
+p {
+    color: red;
+}
+
+ul {
+    background-color: beige;
+}
+
+li {
+    color: darkgreen;
+}
